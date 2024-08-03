@@ -21,7 +21,7 @@ Si vous avez un problème pour lancer les applications :
  - Télécharger [.Net 6.0](https://dotnet.microsoft.com/download/dotnet/6.0) (si vous ne savez pas lequel télécharger prenez celui dans **Exécution de bureau .NET** en **x64**)
 
 ### Description
- - Divise les volumes de tout les effets sonore par 2,6 pour réduire un bug sonore qui change le volume d'un effet soit en faisant pause pendant un son (donc souvent c'est un bruit blanc) soit par un chargement 
+ - Divise les volumes de tout les effets sonore par 2,67 pour réduire un bug sonore qui change le volume d'un effet soit en faisant pause pendant un son (donc souvent c'est un bruit blanc) soit par un chargement
  - Ce patch est hautement incompatible avec n'importe quel patch qui change des effets sonores (ça risque d'être désagréable pour les oreilles)
  
  > Ça fait des années que je me bat contre ce bug horrible vous l'entenderez avec la vidéo et la cascade des enfers mais maintenant j'ai trouvé un moyen de réduire (pas enlevé) ce bug et d'augmenter les volumes de mon patch de voix FR sans faire saturer les voix.
