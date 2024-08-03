@@ -1,5 +1,5 @@
 title: Sound Effects Turned Down
-originalAuthor: Fotia
+originalAuthor: Fotia13
 description: Reduce every volume of each sound effects by 2.67 to fix the loading bug that change crazily the volume.
 dependencies: 
 assets:
